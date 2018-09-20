@@ -1,2 +1,2 @@
-# Papers
- 読んだ論文についてIssueにまとめる．
+# Paper
+Summerize the paper I've read on Issue.
